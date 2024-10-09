@@ -54,7 +54,7 @@ I’m diving deep into Blockchain Development, specifically focusing on StarkNet
   <a href="#" title="Wheval">
     <img width="600" src="https://github-readme-stats.vercel.app/api?username=wheval&show_icons=true&theme=react&title_color=ffffff&bg_color=000000&border_color=ffffff&hide_border=true" />
   </a>
-  <p><img width="600" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wheval&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&border_color=61dafb&hide_border=true" alt="wheval" /></p>
+  <p><img width="600" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wheval&theme=highcontrast&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&border_color=61dafb&hide_border=true" alt="wheval" /></p>
 </div>
 
 ---
