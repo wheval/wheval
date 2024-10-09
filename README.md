@@ -1,55 +1,64 @@
-
-# Hi, I'm Wheval Meze-Egbe 👋
-<p align="lefy">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF4500&center=true&vCenter=true&width=435&lines=Frontend+Developer;Programmer;" alt="Typing SVG" /></a>
-</p>
-I'm a frontend developer building digital products across Web2 and Web3.
-<br/>
-
-## 🌱 Currently Learning
-
+<table style={{fontSize: '12px'}}>
+  <tr>
+    <td>
+      <h1>Hello, I'm Wheval! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></h1>
+	    
+ ###### 🐱‍👤 WHO AM I
+ <ul style={{listStyle: 'none'}}>
+  <li>I'm a frontend developer building digital products across Web2 and Web3.</li>
+  <li>💬 Super obsessed with: <b>Frontend</b>, <b>The Web</b>, <b>Open source</b>, and <b>Family</b></li>
+ </ul>
+ 
+###### 🤸‍♂️ CURRENTLY OBSESSING OVER
 Blockchain Development, with a focus on StarkNet and the Cairo programming language.
-<br/>
-<br/>
 
-## 🎉 Facts about me
-
-- Engineering Undergraduate.
-- Part time Music Artist.
+ ###### 🤐 RANDOM FACTS
+ <ul style={{listStyle: 'none'}}>
+ <li>Engineering Undergraduate.</li>
+<li>Occasionally makes music.</li>
+ </ul>
 <br/>
-<br/>
+  
+ ###### 🛠 MY TOOLBOX </br>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![NextjS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 
-##  📫 Contact Me
-<p>
-<a href="https://www.linkedin.com/in/wheval/" target="_blank" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=fafafa&amp;link=https://www.linkedin.com/in/wheval/"></a>
-<a target="_blank" href="mailto:whevalmezeegbe@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&amp;logo=Gmail&amp;logoColor=fafafa&amp;link=mailto:whevalmezeegbe@gmail.com">
-</a> 
-<a target="_blank"href="https://twitter.com/whevaldev">
-  <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=fafafa">
-</a>
-<a target="_blank"href="https://dev.to/whevaltech">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=fafafa">
-</a>
 </p>
-<br/>
-
-<h3 align="left"> My Tool box</h3>
-<div align="">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+      </td>   
+     <td>
+<div align="center">
+  <a href="#" title="Trungquandev">
+    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheval&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <br/>
+  </a>
+  <a href="#" title="Trungquandev">
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=wheval&show_icons=true&theme=react&title_color=ffffff&bg_color=000000&border_color=ffffff&hide_border=true" />
+  </a>
+<p><img width="600"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wheval&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&border_color=61dafb&hide_border=true" alt="wheval" /></p>
 </div>
-<br />
+     </td>
+   </tr>
+</table>
+<br/><br/><br/>
+
+<div align="center">
+
 <p align="">
 <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wheval&show_icons=true&locale=en&layout=compact" alt="wheval" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wheval&show_icons=true&locale=en" alt="wheval" /></p>
+<a href="https://www.linkedin.com/in/wheval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="mailto:whevalmezeegbe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:whevalmezeegbe@gmail.com"></a> 
+<a href="https://twitter.com/whevaldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://dev.to/whevaltech" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wheval&" alt="wheval" /></p>
+</div>
