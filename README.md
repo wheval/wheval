@@ -27,6 +27,7 @@ I’m diving deep into Blockchain Development, specifically focusing on StarkNet
   <img src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Cairo-000000?style=for-the-badge&logo=cairo" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm" />
