@@ -15,7 +15,7 @@
 
 ### 🤸‍♂️ Currently Learning
 
-I’m diving deep into Blockchain Development, specifically focusing on StarkNet and the Cairo programming language. This emerging space has captured my interest due to its potential to reshape the web and how developers build decentralized applications.
+I’m diving deep into Blockchain Development, specifically focusing on Starknet and the Cairo programming language. This emerging space has captured my interest due to its potential to reshape the web and how developers build decentralized applications.
 
 ---
 
