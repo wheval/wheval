@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Wheval! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></h1>
 
-<h4 align="center">Frontend Developer | Web2 & Web3 Enthusiast</h4>
+<h4 align="center">Frontend Developer | Web2 & Web3 Developer</h4>
 
 ---
 
