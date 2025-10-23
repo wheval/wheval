@@ -3,22 +3,19 @@
 <h4 align="center">Frontend Developer | Web2 & Web3 Developer</h4>
 
 ---
-
+<!--   
 ### 🐱‍👤 Who am I?
 
-<ul style="list-style: none;">
+<!-- <ul style="list-style: none;">
   <li>🌍 I’m a frontend developer with a passion for building engaging digital experiences across Web2 and Web3 ecosystems.</li>
   <li>💡 My obsessions: <b>Frontend Development</b>, <b>Open Source</b>, <b>Blockchain Tech</b>, and <b>Family</b>.</li>
-</ul>
-
----
-
+</ul> -->
+<!--   
 ### 🤸‍♂️ Currently Learning
 
+<!--   
 I’m diving deep into Blockchain Development, specifically focusing on Starknet and the Cairo programming language. This emerging space has captured my interest due to its potential to reshape the web and how developers build decentralized applications.
-
----
-
+-->
 ### 🛠 My Toolbox
 
 <p align="center">
@@ -64,7 +61,7 @@ I’m diving deep into Blockchain Development, specifically focusing on Starknet
 
 <div align="center">
   <p align="">
-    <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a>
+    <!-- <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a> -->
   </p>
   
   <a href="https://www.linkedin.com/in/wheval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
