@@ -64,8 +64,8 @@ I’m diving deep into Blockchain Development, specifically focusing on Starknet
     <!-- <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a> -->
   </p>
   
-  <a href="https://www.linkedin.com/in/wheval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a target="_blank" href="mailto:whevalmezeegbe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:whevalmezeegbe@gmail.com"></a> 
-  <a href="https://twitter.com/whevaldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://dev.to/whevaltech" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+  <!--a href="https://www.linkedin.com/in/wheval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>-->
+  <!--a target="_blank" href="mailto:whevalmezeegbe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:whevalmezeegbe@gmail.com"></a> -->
+  <!--a href="https://twitter.com/whevaldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>-->
+  <!--href="https://dev.to/whevaltech" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
 </div>
