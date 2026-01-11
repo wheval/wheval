@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Wheval! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /></h1>
 
-<h4 align="center">Frontend Developer | Web2 & Web3 Developer</h4>
+<h3 align="center">Frontend Developer | Web2 & Web3 Developer</h4>
 
----
 <!--   
 ### 🐱‍👤 Who am I?
 
@@ -16,32 +15,20 @@
 <!--   
 I’m diving deep into Blockchain Development, specifically focusing on Starknet and the Cairo programming language. This emerging space has captured my interest due to its potential to reshape the web and how developers build decentralized applications.
 -->
-### 🛠 My Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3" />
-  <img src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Cairo-000000?style=for-the-badge&logo=cairo" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript" />
-  <img src="http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git" />
-  <img src="http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma" />
+  <h2>🛠 My Toolbox</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,figma,rust,git,github,html,css,javascript,typescript,react,mongodb,postgres,md,vscode,githubactions" />
+  </a>
 </p>
 
----
 
-### 🔮 Random Facts
-
+<!-- <h2>🔮 Random Facts</h2>
 <ul style="list-style: none;">
   <li>🎓 I'm an Engineering undergraduate with a focus on expanding my knowledge in both Web2 and Web3 technologies.</li>
   <li>🎶 Occasionally, I enjoy creating music in my free time.</li>
-</ul>
+</ul> -->
 
 ---
 
@@ -58,15 +45,11 @@ I’m diving deep into Blockchain Development, specifically focusing on Starknet
 
 <!--->
 
-### 📫 Let's Connect
-
-<div align="center">
-  <p align="">
-    <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/wheval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a target="_blank" href="mailto:whevalmezeegbe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:whevalmezeegbe@gmail.com"></a>
-  <a href="https://twitter.com/whevaldev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+### 📫 Reach out
+<a href="https://twitter.com/whevaldev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/wheval/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:whevalmezeegbe@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"  height="30" width="30" ></a>
+<div align="">
+  <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a>
   <a href="https://dev.to/whevaltech" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
