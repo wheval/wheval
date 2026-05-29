@@ -50,6 +50,6 @@ I’m diving deep into Blockchain Development, specifically focusing on Starknet
 <a href="https://www.linkedin.com/in/wheval/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="30" /></a>
 <a href="mailto:whevalmezeegbe@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"  height="30" width="30" ></a>
 <div align="">
-  <a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a>
+  ##<a href="https://www.codewars.com/users/wheval" target="_blank"><img src="https://www.codewars.com/users/wheval/badges/micro"/></a>
   <a href="https://dev.to/whevaltech" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
